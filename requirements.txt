@@ -5,8 +5,4 @@ numpy==2.0.1
 joblib==1.4.2
 supabase==2.6.0
 streamlit-option-menu==0.3.13
-
-
-
-
-
+streamlit-extras==0.4.7
